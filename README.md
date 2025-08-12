@@ -16,5 +16,5 @@ This interactive dashboard visualizes key economic metrics (GDP, population, GDP
 
 **Tools & Data**  
 - Data Source: [World Bank Open Data](https://data.worldbank.org/) (Yearly metrics).  
-- Tools: Power BI / Python + Plotly / Tableau (*specify yours*).  
+- Tools: Power BI /Microsoft Excel.  
 - Data Cleaning: Handled missing values, standardized country names.  
